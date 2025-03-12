@@ -1,0 +1,56 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Linq;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
+
+
+namespace ModifyEFDBContext.Tests
+{
+    public class BlogEntity : IEntity
+    {
+        // Do not change names of these properties
+        public int BlogId { get; set; }
+        public string Name { get; set; }
+        public bool IsActive { get; set; }
+        public List<PostEntity> Articles { get; set; }
+    }
+
+    public class PostEntity
+    {
+        // Do not change names of these properties
+        public int PostId { get; set; }
+        public int ParentId { get; set; }
+        public string Name { get; set; }
+        public string Content { get; set; }
+        public DateTime Created { get; set; }
+        public DateTime? Updated { get; set; }
+    }
+
+    public class BlogsContext : DbContext
+    {
+        // Do not change names of these properties
+        public DbSet<BlogEntity> BlogsEntities { get; set; }
+        public DbSet<PostEntity> PostsEntities { get; set; }
+
+        public BlogsContext(DbContextOptions<BlogsContext> options)
+            : base(options)
+        {
+            // Do not remove
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            // TODO
+            // Console.WriteLine("Sample debug output");
+        }
+
+        public override int SaveChanges()
+        {
+            // TODO
+            return base.SaveChanges();
+        }
+    }
+}

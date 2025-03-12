@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\F\\Projects\\Bilue-API-Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1906DA2-4CED-4984-908F-A1A0AEB14FC1}|API-Exam.csproj|c:\\users\\f\\projects\\bilue-api-exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1906DA2-4CED-4984-908F-A1A0AEB14FC1}|API-Exam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1906DA2-4CED-4984-908F-A1A0AEB14FC1}|API-Exam.csproj|c:\\users\\f\\projects\\bilue-api-exam\\test1\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1906DA2-4CED-4984-908F-A1A0AEB14FC1}|API-Exam.csproj|solutionrelative:test1\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1906DA2-4CED-4984-908F-A1A0AEB14FC1}|Bilue-API-Exam.csproj|c:\\users\\f\\projects\\bilue-api-exam\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1906DA2-4CED-4984-908F-A1A0AEB14FC1}|Bilue-API-Exam.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1906DA2-4CED-4984-908F-A1A0AEB14FC1}|API-Exam.csproj|c:\\users\\f\\projects\\bilue-api-exam\\test3\\test3-efexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1906DA2-4CED-4984-908F-A1A0AEB14FC1}|API-Exam.csproj|solutionrelative:test3\\test3-efexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1906DA2-4CED-4984-908F-A1A0AEB14FC1}|API-Exam.csproj|c:\\users\\f\\projects\\bilue-api-exam\\bilue-api-exam.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F1906DA2-4CED-4984-908F-A1A0AEB14FC1}|API-Exam.csproj|solutionrelative:bilue-api-exam.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1906DA2-4CED-4984-908F-A1A0AEB14FC1}|API-Exam.csproj|c:\\users\\f\\projects\\bilue-api-exam\\api-exam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1906DA2-4CED-4984-908F-A1A0AEB14FC1}|API-Exam.csproj|solutionrelative:api-exam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1906DA2-4CED-4984-908F-A1A0AEB14FC1}|API-Exam.csproj|c:\\users\\f\\projects\\bilue-api-exam\\test2\\test2_cheese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1906DA2-4CED-4984-908F-A1A0AEB14FC1}|API-Exam.csproj|solutionrelative:test2\\test2_cheese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1906DA2-4CED-4984-908F-A1A0AEB14FC1}|API-Exam.csproj|c:\\users\\f\\projects\\bilue-api-exam\\test2\\test2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F1906DA2-4CED-4984-908F-A1A0AEB14FC1}|API-Exam.csproj|solutionrelative:test2\\test2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "C:\\Users\\F\\Projects\\Bilue-API-Exam\\Test1\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "Test1\\ArticlesController.cs",
+              "ToolTip": "C:\\Users\\F\\Projects\\Bilue-API-Exam\\Test1\\ArticlesController.cs",
+              "RelativeToolTip": "Test1\\ArticlesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:29:59.258Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Test2_Cheese.cs",
+              "DocumentMoniker": "C:\\Users\\F\\Projects\\Bilue-API-Exam\\Test2\\Test2_Cheese.cs",
+              "RelativeDocumentMoniker": "Test2\\Test2_Cheese.cs",
+              "ToolTip": "C:\\Users\\F\\Projects\\Bilue-API-Exam\\Test2\\Test2_Cheese.cs",
+              "RelativeToolTip": "Test2\\Test2_Cheese.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAASwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:38:33.628Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test3-EFExam.cs",
+              "DocumentMoniker": "C:\\Users\\F\\Projects\\Bilue-API-Exam\\Test3\\Test3-EFExam.cs",
+              "RelativeDocumentMoniker": "Test3\\Test3-EFExam.cs",
+              "ToolTip": "C:\\Users\\F\\Projects\\Bilue-API-Exam\\Test3\\Test3-EFExam.cs",
+              "RelativeToolTip": "Test3\\Test3-EFExam.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAUwHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:26:10.649Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\F\\Projects\\Bilue-API-Exam\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\F\\Projects\\Bilue-API-Exam\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:20:43.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bilue-API-Exam.http",
+              "DocumentMoniker": "C:\\Users\\F\\Projects\\Bilue-API-Exam\\Bilue-API-Exam.http",
+              "RelativeDocumentMoniker": "Bilue-API-Exam.http",
+              "ToolTip": "C:\\Users\\F\\Projects\\Bilue-API-Exam\\Bilue-API-Exam.http",
+              "RelativeToolTip": "Bilue-API-Exam.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-12T15:19:16.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "API-Exam",
+              "DocumentMoniker": "C:\\Users\\F\\Projects\\Bilue-API-Exam\\API-Exam.csproj",
+              "RelativeDocumentMoniker": "API-Exam.csproj",
+              "ToolTip": "C:\\Users\\F\\Projects\\Bilue-API-Exam\\API-Exam.csproj",
+              "RelativeToolTip": "API-Exam.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-12T15:18:15.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Test2.txt",
+              "DocumentMoniker": "C:\\Users\\F\\Projects\\Bilue-API-Exam\\Test2\\Test2.txt",
+              "RelativeDocumentMoniker": "Test2\\Test2.txt",
+              "ToolTip": "C:\\Users\\F\\Projects\\Bilue-API-Exam\\Test2\\Test2.txt",
+              "RelativeToolTip": "Test2\\Test2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-11T12:22:00.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\F\\Projects\\Bilue-API-Exam\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\F\\Projects\\Bilue-API-Exam\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:29:53.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
